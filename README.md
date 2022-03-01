@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/77363578/156224105-e211a585-5eec-4b34-9f79-3964c8bcdf5b.png)
 
 Spread across two sub-mods, this project adds six new hairstyles (seven if you include male/female head shape differences for the buzzcut) to Cataclysm: Dark Days Ahead. 
-This is split across five 'Natural' hair colors (black, blond, ginger, red, white) and four 'Bright'/dyed colors (blue, dark purple, green, pink). These have been separated to reduce bloat of the Traits menu for those not interested in one or the other. 
+This is split across six 'Natural' hair colors (black, blond, brown, ginger, red, white) and four 'Bright'/dyed colors (blue, dark purple, green, pink). These have been separated to reduce bloat of the Traits menu for those not interested in one or the other. 
 
 ![image](https://user-images.githubusercontent.com/77363578/156227125-d3897ba2-b5cf-4cbe-b2eb-d052487fad90.png)  
 From left to right: Buzzcut Male, Buzzcut Female, Ponytail, Long over-eye, Messy, Short over-eye, Short
