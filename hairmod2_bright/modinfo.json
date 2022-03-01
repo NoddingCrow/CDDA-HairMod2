@@ -1,0 +1,10 @@
+[{
+		"type": "MOD_INFO",
+		"ident": "hairmod2_bright",
+		"name": "Crow's Hairstles 2: Bright",
+		"authors": ["Crow"],
+		"description": "Adds six new hairstyles in four more colorful colors to the game. MSX+ / Chibi Ultica tileset.",
+		"category": "graphical",
+		"dependencies": ["dda"]
+	}
+]

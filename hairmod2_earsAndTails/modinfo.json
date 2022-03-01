@@ -1,0 +1,10 @@
+[{
+		"type": "MOD_INFO",
+		"ident": "hairmod2_earsAndTails",
+		"name": "Crow's Hairstles 2: Ears and Tails",
+		"authors": ["Crow"],
+		"description": "Retextures Lupine and Feline ears and tails to match the Hairstyles module. Default: Ginger.",
+		"category": "graphical",
+		"dependencies": ["dda"]
+	}
+]

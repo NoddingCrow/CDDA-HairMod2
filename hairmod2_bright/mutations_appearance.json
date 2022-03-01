@@ -1,0 +1,330 @@
+[
+
+	{
+		"type": "mutation",
+		"id": "hairmod2_blue_buzzcut",
+		"name": "Hairstyle: blue, buzzcut",
+		"points": 0,
+		"description": "Your blue hair has been shaved close to the head.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_blue_ponytail",
+		"name": "Hairstyle: blue, ponytail",
+		"points": 0,
+		"description": "You have long blue hair, pulled back into a ponytail.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_blue_long",
+		"name": "Hairstyle: blue, long over-eye",
+		"points": 0,
+		"description": "You have long blue hair, swooping over one eye.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_blue_messy",
+		"name": "Hairstyle: blue, messy",
+		"points": 0,
+		"description": "You have long blue hair, worn loose and carefree!",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_blue_shorteye",
+		"name": "Hairstyle: blue, short over-eye",
+		"points": 0,
+		"description": "You have short blue hair, with the fringe over one eye.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_blue_shorttop",
+		"name": "Hairstyle: blue, short",
+		"points": 0,
+		"description": "You have short blue hair, without a fringe.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+
+	{
+		"type": "mutation",
+		"id": "hairmod2_darkpurple_buzzcut",
+		"name": "Hairstyle: dark purple, buzzcut",
+		"points": 0,
+		"description": "Your dark purple hair has been shaved close to the head.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_darkpurple_ponytail",
+		"name": "Hairstyle: dark purple, ponytail",
+		"points": 0,
+		"description": "You have long dark purple hair, pulled back into a ponytail.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_darkpurple_long",
+		"name": "Hairstyle: dark purple, long over-eye",
+		"points": 0,
+		"description": "You have long dark purple hair, swooping over one eye.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_darkpurple_messy",
+		"name": "Hairstyle: dark purple, messy",
+		"points": 0,
+		"description": "You have long dark purple hair, worn loose and carefree!",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_darkpurple_shorteye",
+		"name": "Hairstyle: dark purple, short over-eye",
+		"points": 0,
+		"description": "You have short dark purple hair, with the fringe over one eye.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_darkpurple_shorttop",
+		"name": "Hairstyle: dark purple, short",
+		"points": 0,
+		"description": "You have short dark purple hair, without a fringe.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+
+	{
+		"type": "mutation",
+		"id": "hairmod2_green_buzzcut",
+		"name": "Hairstyle: green, buzzcut",
+		"points": 0,
+		"description": "Your green hair has been shaved close to the head.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_green_ponytail",
+		"name": "Hairstyle: green, ponytail",
+		"points": 0,
+		"description": "You have long green hair, pulled back into a ponytail.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_green_long",
+		"name": "Hairstyle: green, long over-eye",
+		"points": 0,
+		"description": "You have long green hair, swooping over one eye.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_green_messy",
+		"name": "Hairstyle: green, messy",
+		"points": 0,
+		"description": "You have long green hair, worn loose and carefree!",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_green_shorteye",
+		"name": "Hairstyle: green, short over-eye",
+		"points": 0,
+		"description": "You have short green hair, with the fringe over one eye.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_green_shorttop",
+		"name": "Hairstyle: green, short",
+		"points": 0,
+		"description": "You have short green hair, without a fringe.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+
+	{
+		"type": "mutation",
+		"id": "hairmod2_pink_buzzcut",
+		"name": "Hairstyle: pink, buzzcut",
+		"points": 0,
+		"description": "Your pink hair has been shaved close to the head.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_pink_ponytail",
+		"name": "Hairstyle: pink, ponytail",
+		"points": 0,
+		"description": "You have long pink hair, pulled back into a ponytail.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_pink_long",
+		"name": "Hairstyle: pink, long over-eye",
+		"points": 0,
+		"description": "You have long pink hair, swooping over one eye.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_pink_messy",
+		"name": "Hairstyle: pink, messy",
+		"points": 0,
+		"description": "You have long pink hair, worn loose and carefree!",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_pink_shorteye",
+		"name": "Hairstyle: pink, short over-eye",
+		"points": 0,
+		"description": "You have short pink hair, with the fringe over one eye.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+	{
+		"type": "mutation",
+		"id": "hairmod2_pink_shorttop",
+		"name": "Hairstyle: pink, short",
+		"points": 0,
+		"description": "You have short pink hair, without a fringe.",
+		"starting_trait": true,
+		"valid": false,
+		"purifiable": false,
+		"player_display": false,
+		"types": ["hair_style"]
+	},
+
+	{
+		"type": "overlay_order",
+		"overlay_ordering": [{
+			"id": [
+				"hairmod2_blue_buzzcut",
+				"hairmod2_blue_ponytail",
+				"hairmod2_blue_long",
+				"hairmod2_blue_messy",
+				"hairmod2_blue_shorteye",
+				"hairmod2_blue_shorttop",
+
+				"hairmod2_darkpurple_buzzcut",
+				"hairmod2_darkpurple_ponytail",
+				"hairmod2_darkpurple_long",
+				"hairmod2_darkpurple_messy",
+				"hairmod2_darkpurple_shorteye",
+				"hairmod2_darkpurple_shorttop",
+
+				"hairmod2_green_buzzcut",
+				"hairmod2_green_ponytail",
+				"hairmod2_green_long",
+				"hairmod2_green_messy",
+				"hairmod2_green_shorteye",
+				"hairmod2_green_shorttop",
+
+				"hairmod2_pink_buzzcut",
+				"hairmod2_pink_ponytail",
+				"hairmod2_pink_long",
+				"hairmod2_pink_messy",
+				"hairmod2_pink_shorteye",
+				"hairmod2_pink_shorttop"
+			],
+			"order": 1600
+		}]
+	}
+]

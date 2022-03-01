@@ -1,0 +1,10 @@
+[{
+		"type": "MOD_INFO",
+		"ident": "hairmod2_natural",
+		"name": "Crow's Hairstles 2: Natural",
+		"authors": ["Crow"],
+		"description": "Adds six new hairstyles in six natural colors to the game. MSX+ / Chibi Ultica tileset.",
+		"category": "graphical",
+		"dependencies": ["dda"]
+	}
+]

@@ -1,0 +1,38 @@
+[{
+	"type": "mod_tileset",
+	"compatibility": ["Chibi_Ultica", "MshockXottoplus"],
+	"tiles-new": [
+
+		{
+			"file": "hairmod2_ears.png",
+			"sprite_offset_y": -16,
+			"tiles": [{
+					"id": ["overlay_mutation_CANINE_EARS", "overlay_mutation_LUPINE_EARS"],
+					"fg": 0,
+					"rotates": false
+				},
+				{
+					"id": ["overlay_male_mutation_FELINE_EARS", "overlay_female_mutation_FELINE_EARS"],
+					"fg": 1,
+					"rotates": false
+				}
+			]
+		},
+
+		{
+			"file": "hairmod2_tails.png",
+			"tiles": [
+				{
+					"id": "overlay_mutation_TAIL_FLUFFY",
+					"fg": 2,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_TAIL_LONG",
+					"fg": 3,
+					"rotates": false
+				}
+			]
+		}
+	]
+}]

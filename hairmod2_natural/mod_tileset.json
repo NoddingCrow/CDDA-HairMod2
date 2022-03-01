@@ -1,0 +1,256 @@
+[{
+	"type": "mod_tileset",
+	"compatibility": ["Chibi_Ultica", "MshockXottoplus"],
+	"tiles-new": [{
+			"file": "hairmod2_black.png",
+			"tiles": [{
+					"id": "overlay_male_mutation_hairmod2_black_buzzcut",
+					"fg": 0,
+					"rotates": false
+				},
+				{
+					"id": "overlay_female_mutation_hairmod2_black_buzzcut",
+					"fg": 1,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_black_ponytail",
+					"fg": 2,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_black_long",
+					"fg": 3,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_black_messy",
+					"fg": 4,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_black_shorteye",
+					"fg": 5,
+					"rotates": false
+				},
+
+				{
+					"id": "overlay_mutation_hairmod2_black_shorttop",
+					"fg": 6,
+					"rotates": false
+				}
+
+			]
+		},
+
+		{
+			"file": "hairmod2_blond.png",
+			"tiles": [{
+					"id": "overlay_male_mutation_hairmod2_blond_buzzcut",
+					"fg": 7,
+					"rotates": false
+				},
+				{
+					"id": "overlay_female_mutation_hairmod2_blond_buzzcut",
+					"fg": 8,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_blond_ponytail",
+					"fg": 9,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_blond_long",
+					"fg": 10,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_blond_messy",
+					"fg": 11,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_blond_shorteye",
+					"fg": 12,
+					"rotates": false
+				},
+
+				{
+					"id": "overlay_mutation_hairmod2_blond_shorttop",
+					"fg": 13,
+					"rotates": false
+				}
+
+			]
+		},
+
+		{
+			"file": "hairmod2_brown.png",
+			"tiles": [{
+					"id": "overlay_male_mutation_hairmod2_brown_buzzcut",
+					"fg": 14,
+					"rotates": false
+				},
+				{
+					"id": "overlay_female_mutation_hairmod2_brown_buzzcut",
+					"fg": 15,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_brown_ponytail",
+					"fg": 16,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_brown_long",
+					"fg": 17,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_brown_messy",
+					"fg": 18,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_brown_shorteye",
+					"fg": 19,
+					"rotates": false
+				},
+
+				{
+					"id": "overlay_mutation_hairmod2_brown_shorttop",
+					"fg": 20,
+					"rotates": false
+				}
+
+			]
+		},
+
+		{
+			"file": "hairmod2_ginger.png",
+			"tiles": [{
+					"id": "overlay_male_mutation_hairmod2_ginger_buzzcut",
+					"fg": 21,
+					"rotates": false
+				},
+				{
+					"id": "overlay_female_mutation_hairmod2_ginger_buzzcut",
+					"fg": 22,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_ginger_ponytail",
+					"fg": 23,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_ginger_long",
+					"fg": 24,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_ginger_messy",
+					"fg": 25,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_ginger_shorteye",
+					"fg": 26,
+					"rotates": false
+				},
+
+				{
+					"id": "overlay_mutation_hairmod2_ginger_shorttop",
+					"fg": 27,
+					"rotates": false
+				}
+
+			]
+		},
+
+		{
+			"file": "hairmod2_red.png",
+			"tiles": [{
+					"id": "overlay_male_mutation_hairmod2_red_buzzcut",
+					"fg": 28,
+					"rotates": false
+				},
+				{
+					"id": "overlay_female_mutation_hairmod2_red_buzzcut",
+					"fg": 29,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_red_ponytail",
+					"fg": 30,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_red_long",
+					"fg": 31,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_red_messy",
+					"fg": 32,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_red_shorteye",
+					"fg": 33,
+					"rotates": false
+				},
+
+				{
+					"id": "overlay_mutation_hairmod2_red_shorttop",
+					"fg": 34,
+					"rotates": false
+				}
+
+			]
+		},
+
+		{
+			"file": "hairmod2_white.png",
+			"tiles": [{
+					"id": "overlay_male_mutation_hairmod2_white_buzzcut",
+					"fg": 35,
+					"rotates": false
+				},
+				{
+					"id": "overlay_female_mutation_hairmod2_white_buzzcut",
+					"fg": 36,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_white_ponytail",
+					"fg": 37,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_white_long",
+					"fg": 38,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_white_messy",
+					"fg": 39,
+					"rotates": false
+				},
+				{
+					"id": "overlay_mutation_hairmod2_white_shorteye",
+					"fg": 40,
+					"rotates": false
+				},
+
+				{
+					"id": "overlay_mutation_hairmod2_white_shorttop",
+					"fg": 41,
+					"rotates": false
+				}
+
+			]
+		}
+	]
+}]
