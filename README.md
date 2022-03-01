@@ -14,7 +14,6 @@ The project also includes a mod that retextures the Canine Ears, Lupine Ears, Fe
 ![image](https://user-images.githubusercontent.com/77363578/156225750-75603a70-b1ff-4bd3-bdaf-b2d57fe489cf.png)
 ![image](https://user-images.githubusercontent.com/77363578/156230186-8d69db5f-0d1b-4258-a132-047216d20257.png)
 
-
 The full spritesheet is visible here:  
 ![hairs2-full](https://user-images.githubusercontent.com/77363578/156225085-fea1dd8a-0c5f-4018-aafe-92bc4db1597d.png)
 
@@ -26,7 +25,6 @@ The final directory path should read e.g.
 
 The mod(s) must then be activated from the World Generation menu.
 
-
 ### How to use
 The new additions are added as mutations with the **'Hairstyle:'** prefix, to group them separately to vanilla hair options. They can be accessed from the character creation menu or the debug mutations menu the same way you'd change vanilla hairstyles. 
 
@@ -37,4 +35,7 @@ Go to \hairmod2_earsAndTails\ and paste the two .pngs, overwriting the default o
 Save, and restart C:DDA to load the new textures. 
 
 ### Disclaimer 
-This mod is released as-is, with no guarantee of future development or support. Feel free to modify, redistribute, repackage.
+This mod is released into Public Domain as-is, with no guarantee of current or future function, development, or support.  
+Feel free to modify, redistribute, repackage etc. as you wish. Credit is appreciated but not required.
+
+Cataclysm is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
